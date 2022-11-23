@@ -1,8 +1,11 @@
 let i;
 const saida=document.querySelector(".saida");
-for (i=0; i<10; i++) {
+//   VI   cond  contador
+for (i=0; i<6; i++) {
    saida.innerHTML+=i + " ";
 }
 /*
-0 1 2 3 4 5 
-*/ 
+i++ contador somando 1
+i+=2 contador somando 2
+0 1 2 3 4 5
+*/
