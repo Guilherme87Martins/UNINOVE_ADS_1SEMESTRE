@@ -1,6 +1,6 @@
 let i;
 const saida=document.querySelector(".saida");
-for (i=0; i<1000; i++) {
+for (i=0; i<10; i++) {
    saida.innerHTML+=i + " ";
 }
 /*
